@@ -20,4 +20,10 @@
 
 .flex {
     display: flex;
+    
+}
+
+.red {
+    background-color: rgb(231, 224, 118);
+    padding-right: 80px;
 }
