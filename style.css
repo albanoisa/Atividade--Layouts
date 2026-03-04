@@ -24,7 +24,7 @@
 }
 
 .red {
-    background-color: rgb(231, 224, 118);
+    background-color: rgb(235, 226, 107);
     padding-right: 80px;
 }
 
@@ -39,4 +39,8 @@
 
 .p {
     padding-bottom: 90px;
+}
+
+.s {
+    padding-right: 140px;
 }
